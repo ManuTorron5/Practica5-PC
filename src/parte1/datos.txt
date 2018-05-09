@@ -1,0 +1,5 @@
+Este es el fichero que deberia leer el Servidor y mostrarse por cliente
+No se como funcionaran los saltos de linea
+Lo mismo se quedan como estan o lo muestra todo en una sola linea
+Esto ultimo me parece lo mas probable
+O no muestra nada XDXDXD
